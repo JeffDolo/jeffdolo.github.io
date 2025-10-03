@@ -11,7 +11,7 @@ The website aims to provide a digital presence for the café, presenting its mis
 
 ## Live Prototype
 You can view the live website prototype here:  
-[GreenLeaf Coffee Shop Live Website](https://YOUR-GITHUB-USERNAME.github.io/REPOSITORY-NAME/index.html)
+[GreenLeaf Coffee Shop Live Website](https://jeffdolo.github.io/)
 
 ## Repository Structure
 /docs
